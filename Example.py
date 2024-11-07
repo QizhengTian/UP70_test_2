@@ -1,4 +1,4 @@
-# 从 school.py 导入所有类
+# 从 Definition.py 导入所有类
 from Definition import *
 
 # 测试代码
