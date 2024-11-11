@@ -48,3 +48,4 @@ class Course:
         for name, info in self.students_all.items():
             print(f"姓名: {name}, 年龄: {info['age']}, 年级: {info['grade']}")
         print("*****************************\n")
+        
